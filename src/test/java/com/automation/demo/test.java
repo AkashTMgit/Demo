@@ -6,7 +6,7 @@ public class test {
 	
 	@Test
 	public void test1() {
-		System.Out.Println("hi");
+		System.Out.Println("hi t");
 	}
 	
 
